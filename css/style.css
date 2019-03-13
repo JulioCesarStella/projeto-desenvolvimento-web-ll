@@ -1,0 +1,222 @@
+/*-------Gerais----*/
+
+* {
+margin:0px;
+padding: 0px;
+}
+
+body{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+line-height:17px;
+color:#032948;
+}
+
+.limpar {
+	clear:both;
+}
+
+img{
+border:0;
+}
+
+hr{
+border:1px solid #003366;
+margin-top:10px;
+margin-bottom:20px;
+}
+
+h4 {
+margin-top:10px;
+font-size:1.2em;
+}
+
+p {
+margin-top:10px;
+}
+
+a:link, a:visited, a:active {
+color:#003366; 
+text-decoration:none;
+font-weight:bold;
+   
+}
+
+a:hover {
+text-decoration: underline;
+font-weight:bold;
+}
+
+
+/*-------individual----*/
+p.center {
+text-alig:center;
+}
+
+blockquote.recuado {
+margin-left:25px;
+}
+
+.logo-w3c{
+margin-top:8px;
+margin-left:8px;
+float:left;
+}
+
+.logos-top{
+float:right;
+padding:8px 8px 15px 0px;
+width:200px;
+}
+
+.logo-cgi{
+float:right;
+margin:0px;
+}
+
+.logo-nic{
+float:right;
+margin-left:25px;
+}
+
+.top{
+clear:both;
+background-image:url(images/fundo-top.gif);
+background-repeat:repeat-x;
+height:191px;
+margin-bottom:0px;
+min-width:800px;
+}
+
+.ilustra-top{
+float:right;
+margin-top:4px;
+}
+
+.nome-evento{
+margin:60px 0px 0px 20px;
+float:left;
+}
+
+.data-evento{
+margin-top:40px; 
+}
+
+.titulo{
+padding:5px 0px 4px 20px;
+height:40px;
+margin-right: 10px; 
+background-image:url(images/fundo-titulos.gif);
+background-repeat:repeat-y;
+background-color:#1063a6;
+}
+
+.conteudo{
+margin-left:45px;
+margin-right:45px;
+margin-top:30px;
+margin-bottom:10px;
+}
+
+.conteudo-int{
+margin-left:20px;
+margin-right:0px;
+margin-top:20px;
+margin-bottom:10px;
+}
+
+.espaco-conteudo{
+margin:10px 10px 10px 30px;
+}
+
+.espaco-conteudo-2{
+/*position:absolute;
+top:300px;*/
+float:left;
+padding:20px 0px 20px 20px;
+/*padding:20px 300px 20px 20px;*/
+width:68%;
+min-height:600px;
+/*min-width:520px;*/
+}
+
+
+div.menu-1{
+margin-left:-20px;
+margin-top:8px;
+}
+
+.menu {
+padding-left:20px;
+font-size:1em;
+}
+
+.menu a {
+color:#032948;
+white-space:nowrap;
+}
+
+.menu a:hover{
+background-color:#032948;
+color:#FFF;
+text-decoration: underline;
+}
+
+.menu li {
+display:inline;
+list-style:none;
+}
+
+.rodape{
+height:35px;
+background-image:url(images/rodape.gif);
+background-repeat:repeat-x;
+background-position:bottom;
+padding-bottom:15px;
+clear: both;
+}
+
+.validator{
+float:right;
+
+}
+
+.form-field{
+margin-bottom:15px;
+}
+
+
+.ilustra-hoteis{
+float:left;
+margin-right:10px;
+border:1px solid #003366;
+margin-bottom: 10px;
+}
+
+.localizacao{
+min-height:530px;
+}
+
+.mapa-num{
+float:left;
+}
+
+.logo-w3c-ilust{
+margin-top:3px;
+margin-right:20px;
+float:left;
+}
+
+p.center{
+text-align:center;
+}
+
+.opera {
+vertical-align:middle;	
+}
+
+
+#twtr-search-widget {
+float:right;
+margin:30px 15px 0px 0px;
+}
